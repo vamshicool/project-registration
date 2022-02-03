@@ -1,4 +1,5 @@
-</head>
+html
+<head>
 <body>
 Name:<input type="text"> 
 <center></center>
@@ -16,16 +17,17 @@ Email:<input type="email">
 <br>
 Phone number:<input type="number"> 
 <center></center>
+<br> 
 <br>
-<center></center>
-<input type="button" value="submit"> 
-<br>
-<select name="city" input="city">
+city name:<input type = 'text'>
+<select>
   <option value="Hyderbad">Hyderbad</option>
   <option value="London">london</option>
   <option value="Manchester">Manchester</option>
   <option value="">California</option>
 </select>
+<br>
+<br>
 Skill set:
 <select>
     <option value=””>Java</option>
@@ -33,4 +35,11 @@ Skill set:
     <option value=””>microsoft Azure</option>
     </select>
 <center></center>
-</body></html>
+<form ... onsubmit="return checkForm(this);">
+...
+<p><input type="checkbox" required name="terms"> I accept the <u>Terms and Conditions</u></p>
+<p><input type="submit"></p>
+</form>
+<input type="button" value="submit"/>
+
+</head> </body> </html>
