@@ -1,0 +1,14 @@
+<EmpRecord>
+<Employee id="emp01">
+<name>Vamshi</name>
+<job>Devops Engineer</Job>
+<skills>git,github,linux,java</skills>
+</Employee>
+
+<Employee id="emp02">
+<name>Koti</name>
+<job>Tester</job>
+<skills>forton,Rest ApIs</skills>
+</employee>
+
+</EmpRecord

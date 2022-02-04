@@ -1,0 +1,17 @@
+#Employee record
+
+- Employee one:
+name: Vamc
+job: Devops Engineer
+skills:
+       - GIT
+       - GITHUB
+       - LINUX
+
+- Employee two:
+     name: koti
+     job: Testing
+    skills:
+       - Forton
+       - Automated Testing
+       - Rest APIs

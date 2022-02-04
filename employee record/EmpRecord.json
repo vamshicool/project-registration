@@ -1,0 +1,18 @@
+{
+    "EmpRecord": {
+    "Employee": [
+{
+"-id": "emp01",
+"name": "vamc",
+"job": "Devops Engineer",
+"Skills": "Linux,git,github"
+},
+{
+"-id": "emp02",
+"name": "koti",
+"job": "Testing",
+"Skills": "forton, Rest APIs"
+}
+]
+}
+}
